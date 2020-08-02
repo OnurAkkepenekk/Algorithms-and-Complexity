@@ -1,7 +1,7 @@
 # Algorithms-and-Complexity
 [Long Integer Multiplication](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#long-integer-multiplication) <br>
 [Sorting algorithms](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#sorting-algorithms) <br>
-[Team Workers](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#sorting-algorithms)
+[Team Workers](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity/blob/master/README.md#team-workers)
 
 
 ## Long Integer Multiplication 
