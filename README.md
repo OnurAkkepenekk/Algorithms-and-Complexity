@@ -30,3 +30,5 @@ the most significant digit. That means that if A.txt contains “123456”, this
 ### CountingSort
 
 ## Team Workers
+[Onur AKKEPENEK](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#sorting-algorithms) <br>
+[Yasemin GERBOĞA](https://github.com/yasemingerboga)
