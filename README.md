@@ -14,4 +14,14 @@ interaction between the user and your program:
 
 The first digit in the file represents the least significant digit of the number, and the last digit represents
 the most significant digit. That means that if A.txt contains “123456”, this represents the decimal number
-654321 and not 123456. The result must also be written with the least significant digit first. 
+654321 and not 123456. The result must also be written with the least significant digit first.
+
+## Sorting algorithms
+### BubbleSort
+### SelectionSort
+### InsertionSort
+### MergeSort
+### QuickSort
+### HeapSort
+### RadixSort
+### CountingSort
