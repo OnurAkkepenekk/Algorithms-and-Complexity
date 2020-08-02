@@ -1,8 +1,10 @@
 # Algorithms-and-Complexity
+[Long Integer Multiplication](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#long-integer-multiplication) <br>
+[Sorting algorithms](https://github.com/OnurAkkepenekk/Algorithms-and-Complexity#sorting-algorithms)
+
 
 ## Long Integer Multiplication 
-In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm that we discussed in class, whose running time is O(n^1.58).
-
+In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm that we discussed in class, whose running time is O(n^1.58).<br>
 
 Your program will first prompt for N, the number of digits that each integer has. Then the program will
 prompt for the name of the file where the first integer is stored, then prompt for the name of the file
